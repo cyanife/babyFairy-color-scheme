@@ -1,0 +1,22 @@
+{
+    "name": "babyFairy",
+    "black": "#2f2f2f",
+    "red": "#ab080b",
+    "green": "#70a991",
+    "yellow": "#fdb26f",
+    "blue": "#5a86ad",
+    "purple": "#ac80a6",
+    "cyan": "#82bac2",
+    "white": "#e0dbb7",
+    "brightBlack": "#3c3f48",
+    "brightRed": "#e3363d",
+    "brightGreen": "#8ccbaf",
+    "brightYellow": "#fcda92",
+    "brightBlue": "#b8d3ed",
+    "brightPurple": "#d19ecb",
+    "brightCyan": "#96d3dc",
+    "brightWhite": "#fff9d5",
+    "background": "#fdcac7",
+    "foreground": "#003232",
+    "selectionBackground": "#e2a27c"
+}
