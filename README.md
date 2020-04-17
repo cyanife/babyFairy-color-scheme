@@ -1,3 +1,3 @@
 # babyFairy-color-scheme
 
-![screenshot](https://i.imgur.com/qW7iYxD.png)
+![screenshot](https://i.imgur.com/Q2jZG7T.png)
