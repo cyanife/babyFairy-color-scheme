@@ -8,7 +8,7 @@ background      = #fdcac7
 
 # black
 color0  = #2f2f2f
-color8  = #3c3f48
+color8  = #58504e
 
 # red
 color1  = #ab080b
@@ -19,12 +19,12 @@ color2  = #70a991
 color10 = #8ccbaf
 
 # yellow
-color3  = #fdb26f
-color11 = #fcda92
+color3  = #e2a27c
+color11 = #fdb06c
 
 # blue
 color4  = #5a86ad
-color12 = #b8d3ed
+color12 = #8dc4f8
 
 # magenta
 color5  = #ac80a6
@@ -35,5 +35,5 @@ color6  = #82bac2
 color14 = #96d3dc
 
 # white
-color7  = #e0dbb7
-color15 = #fff9d5
+color7  = #e4e2e3
+color15 = #fffdfe
