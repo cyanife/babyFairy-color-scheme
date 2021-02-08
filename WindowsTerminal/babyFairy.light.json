@@ -1,0 +1,22 @@
+{
+  "name": "babyFairy Light",
+  "foreground": "#262626",
+  "background": "#FFFFFF",
+  "cursorColor": "#262626",
+  "black": "#000000",
+  "red": "#982c29",
+  "green": "#328a5d",
+  "yellow": "#e19e4d",
+  "blue": "#135cd0",
+  "purple": "#9f00bd",
+  "cyan": "#339ecf",
+  "white": "#b3b3b3",
+  "brightBlack": "#4a433d",
+  "brightRed": "#f0615b",
+  "brightGreen": "#2cc631",
+  "brightYellow": "#ffb791",
+  "brightBlue": "#1670ff",
+  "brightPurple": "#e900b0",
+  "brightCyan": "#c5e2f0",
+  "brightWhite": "#eeeeec"
+}
