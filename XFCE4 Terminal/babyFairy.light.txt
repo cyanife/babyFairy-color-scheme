@@ -1,5 +1,7 @@
 [Configuration]
+Name=babyFairy Light
 ColorCursor=#262626262626
 ColorForeground=#262626262626
 ColorBackground=#ffffffffffff
 ColorPalette=#000000000000;#98982c2c2929;#32328a8a5d5d;#e1e19e9e4d4d;#13135c5cd0d0;#9f9f0000bdbd;#33339e9ecfcf;#b3b3b3b3b3b3;#4a4a43433d3d;#f0f061615b5b;#2c2cc6c63131;#ffffb7b79191;#16167070ffff;#e9e90000b0b0;#c5c5e2e2f0f0;#eeeeeeeeecec
+ColorBoldUseDefault=TRUE
